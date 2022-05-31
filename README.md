@@ -8,5 +8,7 @@
 
   > <strong>terraform plan</strong> <br/>
 
-  > <strong>terraform apply</strong>
+  > <strong>terraform apply -auto-approve</strong>
+
+  > <strong>terraform destroy -auto-approve</strong>
 
